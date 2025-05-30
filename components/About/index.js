@@ -1,6 +1,6 @@
 // src/components/AboutUs.js
 import React from 'react';
-import './about.css'; // Import the CSS for About Us styling
+import './about.module.css'; // Import the CSS for About Us styling
 
 const AboutUs = () => {
     
